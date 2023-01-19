@@ -1,0 +1,1 @@
+# Statick.App.CloudFormation
